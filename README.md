@@ -2,8 +2,8 @@
 ### Chapter 6 Project from Automate the Boring Stuff with Python
 
 ### Description
-This is a python script that creates a clipboard that stores multiple messages at once. This will be useful if you do a lot of repetitive typing when responding to
-emails for example. 
+This is a python script that creates a clipboard that stores multiple messages at once. You can use a batch file in Windows to automate this process. This will be useful
+if you do a lot of repetitive typing when responding to emails for example. 
 
 ### Get Started
 This uses the 3rd party pyperclip module which gives us access to control over the clipboard. You can install this entering 'pip install --user pyperclip' into your 
